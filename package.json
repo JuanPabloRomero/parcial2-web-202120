@@ -10,7 +10,8 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.1",
-    "morgan": "~1.9.1"
+    "morgan": "~1.9.1",
+    "react-d3-tooltip": "^1.4.14"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"

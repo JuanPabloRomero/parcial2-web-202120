@@ -15,6 +15,7 @@ function App() {
   const setSearchkey = (query) => {
     setSearchState({ searchKey: query });
   };
+  
 
   return (
     <IntlProvider locale={language} messages={messages[language]}>
